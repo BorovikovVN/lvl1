@@ -21,7 +21,7 @@ namespace Lvl1
         {
             InitializeComponent();
             this.Title = "Стартовое окно";
-            this.ResizeMode = ResizeMode.NoResize;
+            this.ResizeMode = ResizeMode.NoResize; 
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
