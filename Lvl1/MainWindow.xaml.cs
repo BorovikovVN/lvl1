@@ -20,7 +20,7 @@ namespace Lvl1
         public MainWindow()
         {
             InitializeComponent();
-            this.Title = "Стартовое окно";
+            this.Title = "Стартовое окно"; 
             this.ResizeMode = ResizeMode.NoResize;
         }
 
