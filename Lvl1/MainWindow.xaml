@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lvl1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="MainWindow" Height="450" Width="800" MaxWidth="800" MaxHeight="450">
+    <Grid x:Name="___Без_имени_">
+        <Button Content="Меню" Width="100" Height="40" Click="Button_Click"></Button>
     </Grid>
 </Window>
